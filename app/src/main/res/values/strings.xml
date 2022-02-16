@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Example intent with data</string>
+    <string name="Name1">Name</string>
+    <string name="Name2">Name</string>
+    <string name="SubmitButton">Send</string>
+    <string name="BackButton">Return</string>
+
+</resources>
